@@ -1,0 +1,55 @@
+{
+    "design" :
+    {
+        "pageTitle"         : "Seach Rating Form",
+        "introAnimation"    : "./img/Animation/curtain_1200px_1800mSec_1time.gif",
+        "introAnimDuration" : 1200,
+        "bodyBckgColor"     : "black",
+        "bodyBckgImages"    : ["./img/Frame/frame-rect.gif", "./img/Frame/kush-dan-anim-b1.gif"],
+        "formBorder_style"  : null,
+        "numberRateButtons" : 5,
+        "fadeInDuration"    : 0
+    },
+
+    "title" :
+    {
+        "text"   :  "מה דעתך על קוש-דן של שיח ?",
+        "rtl"    : true,
+        "style"  : "color: yellow; font-size: 5vw",
+        "shadow" : "2px 2px 2px yellow"
+    },
+
+    "comment" :
+    {
+       "text"   : "הכוכב של המחוז",
+        "rtl"    : true,
+        "style"  : "color: DarkOrange; font-size: 4vw",
+        "shadow" : "2px 2px 2px greenyellow"
+    },
+    
+    "rateButton" :
+    {
+        "idleImage"     : "./img/Button/plain.gif",
+        "hoverImage"    : "./img/Button/hover.gif",
+        "selectedImage" : "./img/Button/selected-green.gif"
+    },
+
+    "signButton" :
+    {
+        "plus_idleImage"      : "./img/Thumb/right-idle.gif",
+        "plus_selectedImage"  : "./img/Thumb/right-selected.gif",
+        "minus_idleImage"     : "./img/Thumb/left-idle.gif",
+        "minus_selectedImage" : "./img/Thumb/left-selected.gif"
+    },
+
+
+    "navigation" :
+    {
+        "prevImage" : "./img/Navigation/prev.gif",
+        "nextImage" : "./img/Navigation/next.gif",
+        "prevUrl" : null,
+        "reportUrl" : "https://qr.seach.co.il/r05/2t.php",
+        "nextUrl"   : "http://www.seach.co.il"
+ 
+    }
+}

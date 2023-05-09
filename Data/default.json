@@ -1,0 +1,54 @@
+{
+    "design" :
+    {
+        "pageTitle"         : "Seach Rating Form",
+        "introAnimation"    : "https://pua.canabolabs.com/Original/Questions/img/Animation/curtain_1200px_1800mSec_1time.gif",
+        "introAnimDuration" : 1800,
+        "bodyBckgColor"     : "lightblue",
+        "bodyBckgImages"    : ["https://pua.canabolabs.com/Original/Questions/img/Frame/frame-rect.gif", "./img/Frame/birds1.gif"],
+        "formBorder_style"  : null,
+        "numberRateButtons" : 5,
+        "fadeInDuration"    : 500
+    },
+
+    "title" :
+    {
+        "text"   : "Rate, defaul json file",
+        "rtl"    : false,
+        "style"  : null,
+        "shadow" : "2px 2px 2px yellow"
+    },
+
+    "comment" :
+    {
+        "text"   : "Thanks for your time :-)",
+        "rtl"    : false,
+        "style"  : null,
+        "shadow" : "2px 2px 2px greenyellow"
+    },
+    
+    "rateButton" :
+    {
+        "idleImage"     : "https://pua.canabolabs.com/Original/Questions/img/Button/plain.gif",
+        "hoverImage"    : "https://pua.canabolabs.com/Original/Questions/img/Button/hover.gif",
+        "selectedImage" : "https://pua.canabolabs.com/Original/Questions/img/Button/selected-red.gif"
+    },
+
+    "signButton" :
+    {
+        "plus_idleImage"      : "https://pua.canabolabs.com/Original/Questions/img/Thumb/right-idle.gif",
+        "plus_selectedImage"  : "https://pua.canabolabs.com/Original/Questions/img/Thumb/right-selected.gif",
+        "minus_idleImage"     : "https://pua.canabolabs.com/Original/Questions/img/Thumb/left-idle.gif",
+        "minus_selectedImage" : "https://pua.canabolabs.com/Original/Questions/img/Thumb/left-selected.gif"
+    },
+
+    "navigation" :
+    {
+        "prevImage" : "https://pua.canabolabs.com/Original/Questions/img/Navigation/prev.gif",
+        "nextImage" : "https://pua.canabolabs.com/Original/Questions/img/Navigation/next.gif",
+        
+        "reportUrl" : "https://qr.seach.co.il/nrf/2t.php",
+        "prevUrl"   : "http://google.com",
+        "nextUrl"   : "http://127.0.0.1/tttt"
+    }
+}

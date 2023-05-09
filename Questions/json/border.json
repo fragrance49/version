@@ -1,0 +1,54 @@
+{
+    "design" :
+    {
+        "pageTitle"         : "שיח: דירוג מוצר",
+        "introAnimation"    : "./img/Animation/curtain_1200px_1800mSec_1time.gif",
+        "introAnimDuration" : 1800,
+        "bodyBckgColor"     : "lightblue",
+        "bodyBckgImages"    : null,
+        "formBorder_style"  : "2px solid green",
+        "numberRateButtons" : 5,
+        "fadeInDuration"    : 0
+    },
+
+    "title" :
+    {
+        "text"   : "דעתך על המוצר שלנו?",
+        "rtl"    : true,
+        "style"  : "color: red; font-size: 5vw",
+        "shadow" : "2px 2px 2px yellow"
+    },
+
+    "comment" :
+    {
+        "text"   : "תודה על זמנך!",
+        "rtl"    : true,
+        "style"  : "color: green; font-size: 4vw",
+        "shadow" : "2px 2px 2px greenyellow"
+    },
+    
+    "rateButton" :
+    {
+        "idleImage"     : "./img/Button/plain.gif",
+        "hoverImage"    : "./img/Button/hover.gif",
+        "selectedImage" : "./img/Button/selected-green.gif"
+    },
+
+    "signButton" :
+    {
+        "plus_idleImage"      : "./img/Thumb/right-idle.gif",
+        "plus_selectedImage"  : "./img/Thumb/right-selected.gif",
+        "minus_idleImage"     : "./img/Thumb/left-idle.gif",
+        "minus_selectedImage" : "./img/Thumb/left-selected.gif"
+    },
+
+    "navigation" :
+    {
+        "prevImage" : "./img/Navigation/prev.gif",
+        "nextImage" : "./img/Navigation/next.gif",
+        
+        "reportUrl" : "https://qr.seach.co.il/nrf/2t.php",
+        "prevUrl"   : "http://google.com",
+        "nextUrl"   : "http://127.0.0.1:5500"
+    }
+}

@@ -1,0 +1,425 @@
+[30-Nov-2022 05:45:54 America/New_York] PHP Warning:  Undefined variable $_get in /home/mamunstudios/public_html/php/index.php on line 22
+[30-Nov-2022 05:45:54 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/mamunstudios/public_html/php/index.php on line 22
+[01-Dec-2022 04:44:34 America/New_York] PHP Warning:  Undefined array key "QueryPage" in /home/mamunstudios/public_html/newpageToActivate/action.php on line 3
+[01-Dec-2022 04:47:00 America/New_York] PHP Warning:  Undefined array key "QueryPage" in /home/mamunstudios/public_html/newpageToActivate/homePage.php on line 3
+[01-Dec-2022 04:47:34 America/New_York] PHP Warning:  Undefined array key "QueryPage" in /home/mamunstudios/public_html/newpageToActivate/homePage.php on line 3
+[01-Dec-2022 04:48:21 America/New_York] PHP Warning:  Undefined variable $f in /home/mamunstudios/public_html/newpageToActivate/homePage.php on line 6
+[01-Dec-2022 04:48:21 America/New_York] PHP Fatal error:  Uncaught TypeError: fclose(): Argument #1 ($stream) must be of type resource, null given in /home/mamunstudios/public_html/newpageToActivate/homePage.php:6
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/homePage.php(6): fclose()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/homePage.php on line 6
+[01-Dec-2022 04:48:55 America/New_York] PHP Warning:  Undefined variable $f in /home/mamunstudios/public_html/newpageToActivate/homePage.php on line 6
+[01-Dec-2022 04:48:55 America/New_York] PHP Fatal error:  Uncaught TypeError: fclose(): Argument #1 ($stream) must be of type resource, null given in /home/mamunstudios/public_html/newpageToActivate/homePage.php:6
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/homePage.php(6): fclose()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/homePage.php on line 6
+[01-Dec-2022 04:49:48 America/New_York] PHP Warning:  Undefined variable $f in /home/mamunstudios/public_html/newpageToActivate/homePage.php on line 6
+[01-Dec-2022 04:49:48 America/New_York] PHP Fatal error:  Uncaught TypeError: fclose(): Argument #1 ($stream) must be of type resource, null given in /home/mamunstudios/public_html/newpageToActivate/homePage.php:6
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/homePage.php(6): fclose()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/homePage.php on line 6
+[01-Dec-2022 04:50:10 America/New_York] PHP Warning:  Undefined variable $f in /home/mamunstudios/public_html/newpageToActivate/homePage.php on line 6
+[01-Dec-2022 04:50:10 America/New_York] PHP Fatal error:  Uncaught TypeError: fclose(): Argument #1 ($stream) must be of type resource, null given in /home/mamunstudios/public_html/newpageToActivate/homePage.php:6
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/homePage.php(6): fclose()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/homePage.php on line 6
+[01-Dec-2022 04:59:04 America/New_York] PHP Warning:  fopen(Test data here.csv): Failed to open stream: No such file or directory in /home/mamunstudios/public_html/newpageToActivate/index.php on line 25
+[01-Dec-2022 04:59:04 America/New_York] PHP Fatal error:  Uncaught TypeError: fgetcsv(): Argument #1 ($stream) must be of type resource, bool given in /home/mamunstudios/public_html/newpageToActivate/index.php:26
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/index.php(26): fgetcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/index.php on line 26
+[01-Dec-2022 04:59:11 America/New_York] PHP Warning:  Undefined array key "text" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 25
+[01-Dec-2022 08:23:58 America/New_York] PHP Warning:  fopen(4354354.csv): Failed to open stream: No such file or directory in /home/mamunstudios/public_html/newpageToActivate/index.php on line 25
+[01-Dec-2022 08:23:58 America/New_York] PHP Fatal error:  Uncaught TypeError: fgetcsv(): Argument #1 ($stream) must be of type resource, bool given in /home/mamunstudios/public_html/newpageToActivate/index.php:26
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/index.php(26): fgetcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/index.php on line 26
+[01-Dec-2022 08:38:52 America/New_York] PHP Warning:  fopen(4354354.csv): Failed to open stream: No such file or directory in /home/mamunstudios/public_html/newpageToActivate/index.php on line 25
+[01-Dec-2022 08:38:52 America/New_York] PHP Fatal error:  Uncaught TypeError: fgetcsv(): Argument #1 ($stream) must be of type resource, bool given in /home/mamunstudios/public_html/newpageToActivate/index.php:26
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/index.php(26): fgetcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/index.php on line 26
+[01-Dec-2022 08:39:03 America/New_York] PHP Warning:  fopen(4354354.csv): Failed to open stream: No such file or directory in /home/mamunstudios/public_html/newpageToActivate/index.php on line 25
+[01-Dec-2022 08:39:03 America/New_York] PHP Fatal error:  Uncaught TypeError: fgetcsv(): Argument #1 ($stream) must be of type resource, bool given in /home/mamunstudios/public_html/newpageToActivate/index.php:26
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/index.php(26): fgetcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/index.php on line 26
+[01-Dec-2022 08:51:18 America/New_York] PHP Warning:  fopen(fdgfd.csv): Failed to open stream: No such file or directory in /home/mamunstudios/public_html/newpageToActivate/index.php on line 25
+[01-Dec-2022 08:51:18 America/New_York] PHP Fatal error:  Uncaught TypeError: fgetcsv(): Argument #1 ($stream) must be of type resource, bool given in /home/mamunstudios/public_html/newpageToActivate/index.php:26
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/index.php(26): fgetcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/index.php on line 26
+[01-Dec-2022 10:34:47 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/action.php on line 5
+[01-Dec-2022 10:35:18 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/action.php on line 5
+[02-Dec-2022 03:35:35 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/action.php on line 5
+[02-Dec-2022 03:36:35 America/New_York] PHP Warning:  fopen(01632591135.csv): Failed to open stream: No such file or directory in /home/mamunstudios/public_html/newpageToActivate/index.php on line 25
+[02-Dec-2022 03:36:35 America/New_York] PHP Fatal error:  Uncaught TypeError: fgetcsv(): Argument #1 ($stream) must be of type resource, bool given in /home/mamunstudios/public_html/newpageToActivate/index.php:26
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/index.php(26): fgetcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/index.php on line 26
+[02-Dec-2022 03:36:49 America/New_York] PHP Warning:  fopen(01632591135.csv): Failed to open stream: No such file or directory in /home/mamunstudios/public_html/newpageToActivate/index.php on line 25
+[02-Dec-2022 03:36:49 America/New_York] PHP Fatal error:  Uncaught TypeError: fgetcsv(): Argument #1 ($stream) must be of type resource, bool given in /home/mamunstudios/public_html/newpageToActivate/index.php:26
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/index.php(26): fgetcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/index.php on line 26
+[02-Dec-2022 03:40:23 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/action.php on line 5
+[02-Dec-2022 03:40:46 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/action.php on line 5
+[02-Dec-2022 03:41:00 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/action.php on line 5
+[02-Dec-2022 03:45:10 America/New_York] PHP Warning:  fopen(342423423.csv): Failed to open stream: No such file or directory in /home/mamunstudios/public_html/newpageToActivate/index.php on line 25
+[02-Dec-2022 03:45:10 America/New_York] PHP Fatal error:  Uncaught TypeError: fgetcsv(): Argument #1 ($stream) must be of type resource, bool given in /home/mamunstudios/public_html/newpageToActivate/index.php:26
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/index.php(26): fgetcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/index.php on line 26
+[02-Dec-2022 03:46:20 America/New_York] PHP Warning:  Undefined array key "QueryPage" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 26
+[02-Dec-2022 03:46:20 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 03:46:20 America/New_York] PHP Warning:  fopen(342423423.csv): Failed to open stream: No such file or directory in /home/mamunstudios/public_html/newpageToActivate/index.php on line 50
+[02-Dec-2022 03:46:20 America/New_York] PHP Fatal error:  Uncaught TypeError: fgetcsv(): Argument #1 ($stream) must be of type resource, bool given in /home/mamunstudios/public_html/newpageToActivate/index.php:51
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/index.php(51): fgetcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/index.php on line 51
+[02-Dec-2022 03:46:23 America/New_York] PHP Warning:  Undefined array key "QueryPage" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 26
+[02-Dec-2022 03:46:23 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 03:46:23 America/New_York] PHP Warning:  fopen(342423423.csv): Failed to open stream: No such file or directory in /home/mamunstudios/public_html/newpageToActivate/index.php on line 50
+[02-Dec-2022 03:46:23 America/New_York] PHP Fatal error:  Uncaught TypeError: fgetcsv(): Argument #1 ($stream) must be of type resource, bool given in /home/mamunstudios/public_html/newpageToActivate/index.php:51
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/index.php(51): fgetcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/index.php on line 51
+[02-Dec-2022 03:47:08 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 03:47:16 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 03:48:31 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 03:50:11 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 03:50:40 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 03:52:36 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 03:53:01 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 03:53:08 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 03:54:11 America/New_York] PHP Warning:  fopen(asstes/5626.csv): Failed to open stream: No such file or directory in /home/mamunstudios/public_html/newpageToActivate/action.php on line 15
+[02-Dec-2022 03:54:27 America/New_York] PHP Warning:  fopen(asstes/43242.csv): Failed to open stream: No such file or directory in /home/mamunstudios/public_html/newpageToActivate/action.php on line 15
+[02-Dec-2022 03:54:28 America/New_York] PHP Warning:  fopen(asstes/23423.csv): Failed to open stream: No such file or directory in /home/mamunstudios/public_html/newpageToActivate/action.php on line 15
+[02-Dec-2022 03:54:28 America/New_York] PHP Warning:  fopen(asstes/23423.csv): Failed to open stream: No such file or directory in /home/mamunstudios/public_html/newpageToActivate/action.php on line 15
+[02-Dec-2022 03:55:22 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 03:56:05 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 03:56:50 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 03:56:56 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 03:57:18 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:00:21 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:00:27 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:02:49 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:04:15 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:04:32 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:05:04 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:05:52 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:06:20 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:06:50 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:09:31 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:10:46 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:11:27 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:11:43 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:11:46 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:11:47 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:12:11 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:19:12 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:19:58 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:23:41 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 27
+[02-Dec-2022 04:28:55 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 36
+[02-Dec-2022 04:34:10 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 37
+[02-Dec-2022 05:06:05 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[02-Dec-2022 05:08:37 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[02-Dec-2022 05:33:06 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 02:36:55 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 02:37:02 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 02:39:47 America/New_York] PHP Warning:  Undefined array key "text" in /home/mamunstudios/public_html/newpageToActivate/action.php on line 6
+[04-Dec-2022 02:39:47 America/New_York] PHP Warning:  fopen(number.csv): Failed to open stream: No such file or directory in /home/mamunstudios/public_html/newpageToActivate/action.php on line 6
+[04-Dec-2022 02:39:47 America/New_York] PHP Fatal error:  Uncaught TypeError: fgetcsv(): Argument #1 ($stream) must be of type resource, bool given in /home/mamunstudios/public_html/newpageToActivate/action.php:7
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(7): fgetcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 7
+[04-Dec-2022 02:40:52 America/New_York] PHP Warning:  Undefined array key "text" in /home/mamunstudios/public_html/newpageToActivate/action.php on line 7
+[04-Dec-2022 02:40:52 America/New_York] PHP Warning:  fopen(number.csv): Failed to open stream: No such file or directory in /home/mamunstudios/public_html/newpageToActivate/action.php on line 7
+[04-Dec-2022 02:40:52 America/New_York] PHP Fatal error:  Uncaught TypeError: fgetcsv(): Argument #1 ($stream) must be of type resource, bool given in /home/mamunstudios/public_html/newpageToActivate/action.php:9
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(9): fgetcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 9
+[04-Dec-2022 02:41:34 America/New_York] PHP Warning:  Undefined array key "text" in /home/mamunstudios/public_html/newpageToActivate/action.php on line 7
+[04-Dec-2022 02:41:34 America/New_York] PHP Warning:  fopen(number.csv): Failed to open stream: No such file or directory in /home/mamunstudios/public_html/newpageToActivate/action.php on line 7
+[04-Dec-2022 02:41:34 America/New_York] PHP Fatal error:  Uncaught TypeError: fgetcsv(): Argument #1 ($stream) must be of type resource, bool given in /home/mamunstudios/public_html/newpageToActivate/action.php:9
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(9): fgetcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 9
+[04-Dec-2022 02:42:10 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 02:42:37 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 02:43:16 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 02:44:24 America/New_York] PHP Warning:  fopen(number.csv): Failed to open stream: No such file or directory in /home/mamunstudios/public_html/newpageToActivate/action.php on line 4
+[04-Dec-2022 02:44:24 America/New_York] PHP Fatal error:  Uncaught TypeError: fgetcsv(): Argument #1 ($stream) must be of type resource, bool given in /home/mamunstudios/public_html/newpageToActivate/action.php:5
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(5): fgetcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 5
+[04-Dec-2022 02:44:45 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 02:44:55 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 02:45:08 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 02:45:35 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 02:49:03 America/New_York] PHP Fatal error:  Uncaught TypeError: fgetcsv(): supplied resource is not a valid stream resource in /home/mamunstudios/public_html/newpageToActivate/action.php:11
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(11): fgetcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 11
+[04-Dec-2022 02:49:12 America/New_York] PHP Fatal error:  Uncaught TypeError: fgetcsv(): supplied resource is not a valid stream resource in /home/mamunstudios/public_html/newpageToActivate/action.php:11
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(11): fgetcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 11
+[04-Dec-2022 02:49:44 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/mamunstudios/public_html/newpageToActivate/action.php on line 11
+[04-Dec-2022 02:50:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function array_marge() in /home/mamunstudios/public_html/newpageToActivate/action.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 21
+[04-Dec-2022 02:51:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function array_marge() in /home/mamunstudios/public_html/newpageToActivate/action.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 02:51:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function array_marge() in /home/mamunstudios/public_html/newpageToActivate/action.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 02:51:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function array_marge() in /home/mamunstudios/public_html/newpageToActivate/action.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 02:52:46 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 02:53:53 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 02:57:13 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 02:59:58 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 03:00:19 America/New_York] PHP Fatal error:  Uncaught TypeError: array_shift(): Argument #1 ($array) must be of type array, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:10
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(10): array_shift()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 10
+[04-Dec-2022 03:00:22 America/New_York] PHP Fatal error:  Uncaught TypeError: array_shift(): Argument #1 ($array) must be of type array, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:10
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(10): array_shift()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 10
+[04-Dec-2022 03:00:37 America/New_York] PHP Warning:  Undefined variable $number in /home/mamunstudios/public_html/newpageToActivate/action.php on line 6
+[04-Dec-2022 03:00:40 America/New_York] PHP Warning:  Undefined variable $number in /home/mamunstudios/public_html/newpageToActivate/action.php on line 6
+[04-Dec-2022 03:01:02 America/New_York] PHP Fatal error:  Uncaught TypeError: array_shift(): Argument #1 ($array) must be of type array, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:10
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(10): array_shift()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 10
+[04-Dec-2022 03:02:58 America/New_York] PHP Fatal error:  Uncaught TypeError: array_shift(): Argument #1 ($array) must be of type array, bool given in /home/mamunstudios/public_html/newpageToActivate/action.php:10
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(10): array_shift()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 10
+[04-Dec-2022 03:02:59 America/New_York] PHP Fatal error:  Uncaught TypeError: array_shift(): Argument #1 ($array) must be of type array, bool given in /home/mamunstudios/public_html/newpageToActivate/action.php:10
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(10): array_shift()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 10
+[04-Dec-2022 03:03:00 America/New_York] PHP Fatal error:  Uncaught TypeError: array_shift(): Argument #1 ($array) must be of type array, bool given in /home/mamunstudios/public_html/newpageToActivate/action.php:10
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(10): array_shift()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 10
+[04-Dec-2022 03:03:03 America/New_York] PHP Fatal error:  Uncaught TypeError: array_shift(): Argument #1 ($array) must be of type array, bool given in /home/mamunstudios/public_html/newpageToActivate/action.php:10
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(10): array_shift()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 10
+[04-Dec-2022 03:03:06 America/New_York] PHP Fatal error:  Uncaught TypeError: array_shift(): Argument #1 ($array) must be of type array, bool given in /home/mamunstudios/public_html/newpageToActivate/action.php:10
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(10): array_shift()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 10
+[04-Dec-2022 03:03:39 America/New_York] PHP Warning:  Undefined variable $data1 in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:03:39 America/New_York] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:19
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(19): array_merge()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:04:02 America/New_York] PHP Warning:  Undefined variable $data1 in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:04:02 America/New_York] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:19
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(19): array_merge()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:04:04 America/New_York] PHP Warning:  Undefined variable $data1 in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:04:04 America/New_York] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:19
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(19): array_merge()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:04:05 America/New_York] PHP Warning:  Undefined variable $data1 in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:04:05 America/New_York] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:19
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(19): array_merge()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:04:08 America/New_York] PHP Warning:  Undefined variable $data1 in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:04:08 America/New_York] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:19
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(19): array_merge()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:04:16 America/New_York] PHP Warning:  Undefined variable $data1 in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:04:16 America/New_York] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:19
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(19): array_merge()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:04:29 America/New_York] PHP Warning:  Undefined variable $data1 in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:04:29 America/New_York] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:19
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(19): array_merge()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:04:52 America/New_York] PHP Warning:  Undefined variable $data1 in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:04:52 America/New_York] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:19
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(19): array_merge()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:05:05 America/New_York] PHP Warning:  Undefined variable $data1 in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:05:05 America/New_York] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:19
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(19): array_merge()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:05:07 America/New_York] PHP Warning:  Undefined variable $data1 in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:05:07 America/New_York] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:19
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(19): array_merge()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:05:50 America/New_York] PHP Warning:  Undefined variable $data1 in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:05:50 America/New_York] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:19
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(19): array_merge()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:06:10 America/New_York] PHP Warning:  Undefined variable $data1 in /home/mamunstudios/public_html/newpageToActivate/action.php on line 10
+[04-Dec-2022 03:06:20 America/New_York] PHP Warning:  Undefined variable $data1 in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:06:20 America/New_York] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:19
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(19): array_merge()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:06:44 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 03:07:06 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 03:11:42 America/New_York] PHP Warning:  Undefined variable $data1 in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:11:42 America/New_York] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:19
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(19): array_merge()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 19
+[04-Dec-2022 03:13:08 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 03:13:21 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 03:14:51 America/New_York] PHP Warning:  Undefined variable $f in /home/mamunstudios/public_html/newpageToActivate/action.php on line 29
+[04-Dec-2022 03:14:53 America/New_York] PHP Warning:  Undefined variable $f in /home/mamunstudios/public_html/newpageToActivate/action.php on line 29
+[04-Dec-2022 03:14:56 America/New_York] PHP Warning:  Undefined variable $f in /home/mamunstudios/public_html/newpageToActivate/action.php on line 29
+[04-Dec-2022 03:15:11 America/New_York] PHP Warning:  Undefined variable $f in /home/mamunstudios/public_html/newpageToActivate/action.php on line 29
+[04-Dec-2022 03:15:11 America/New_York] PHP Warning:  Undefined variable $f in /home/mamunstudios/public_html/newpageToActivate/action.php on line 36
+[04-Dec-2022 03:15:11 America/New_York] PHP Fatal error:  Uncaught TypeError: fputcsv(): Argument #1 ($stream) must be of type resource, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:36
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(36): fputcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 36
+[04-Dec-2022 03:15:13 America/New_York] PHP Warning:  Undefined variable $f in /home/mamunstudios/public_html/newpageToActivate/action.php on line 29
+[04-Dec-2022 03:15:13 America/New_York] PHP Warning:  Undefined variable $f in /home/mamunstudios/public_html/newpageToActivate/action.php on line 36
+[04-Dec-2022 03:15:13 America/New_York] PHP Fatal error:  Uncaught TypeError: fputcsv(): Argument #1 ($stream) must be of type resource, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:36
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(36): fputcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 36
+[04-Dec-2022 03:16:03 America/New_York] PHP Warning:  Undefined variable $f in /home/mamunstudios/public_html/newpageToActivate/action.php on line 30
+[04-Dec-2022 03:16:03 America/New_York] PHP Warning:  Undefined variable $f in /home/mamunstudios/public_html/newpageToActivate/action.php on line 37
+[04-Dec-2022 03:16:03 America/New_York] PHP Fatal error:  Uncaught TypeError: fputcsv(): Argument #1 ($stream) must be of type resource, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:37
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(37): fputcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 37
+[04-Dec-2022 03:16:04 America/New_York] PHP Warning:  Undefined variable $f in /home/mamunstudios/public_html/newpageToActivate/action.php on line 30
+[04-Dec-2022 03:16:04 America/New_York] PHP Warning:  Undefined variable $f in /home/mamunstudios/public_html/newpageToActivate/action.php on line 37
+[04-Dec-2022 03:16:04 America/New_York] PHP Fatal error:  Uncaught TypeError: fputcsv(): Argument #1 ($stream) must be of type resource, null given in /home/mamunstudios/public_html/newpageToActivate/action.php:37
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/action.php(37): fputcsv()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/action.php on line 37
+[04-Dec-2022 03:16:26 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 03:18:41 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 03:18:51 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 03:28:36 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 03:28:56 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 03:29:17 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 03:29:45 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 03:29:56 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 03:30:08 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[04-Dec-2022 03:30:57 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[05-Dec-2022 11:04:09 America/New_York] PHP Warning:  Undefined variable $form in /home/mamunstudios/public_html/newpageToActivate/action.php on line 38
+[05-Dec-2022 11:04:09 America/New_York] PHP Warning:  Undefined variable $number in /home/mamunstudios/public_html/newpageToActivate/action.php on line 38
+[05-Dec-2022 11:04:23 America/New_York] PHP Warning:  Undefined variable $form in /home/mamunstudios/public_html/newpageToActivate/action.php on line 38
+[05-Dec-2022 11:04:23 America/New_York] PHP Warning:  Undefined variable $number in /home/mamunstudios/public_html/newpageToActivate/action.php on line 38
+[05-Dec-2022 11:05:26 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[05-Dec-2022 11:05:26 America/New_York] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, bool given in /home/mamunstudios/public_html/newpageToActivate/index.php:42
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/index.php(42): array_merge()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/index.php on line 42
+[05-Dec-2022 11:05:31 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[05-Dec-2022 11:05:31 America/New_York] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, bool given in /home/mamunstudios/public_html/newpageToActivate/index.php:42
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/index.php(42): array_merge()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/index.php on line 42
+[05-Dec-2022 11:05:43 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[05-Dec-2022 11:05:43 America/New_York] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, bool given in /home/mamunstudios/public_html/newpageToActivate/index.php:42
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/index.php(42): array_merge()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/index.php on line 42
+[05-Dec-2022 11:06:11 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[05-Dec-2022 11:06:11 America/New_York] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, bool given in /home/mamunstudios/public_html/newpageToActivate/index.php:42
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/index.php(42): array_merge()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/index.php on line 42
+[05-Dec-2022 11:06:19 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[05-Dec-2022 11:06:19 America/New_York] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, bool given in /home/mamunstudios/public_html/newpageToActivate/index.php:42
+Stack trace:
+#0 /home/mamunstudios/public_html/newpageToActivate/index.php(42): array_merge()
+#1 {main}
+  thrown in /home/mamunstudios/public_html/newpageToActivate/index.php on line 42
+[05-Dec-2022 11:08:11 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[05-Dec-2022 11:08:44 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[05-Dec-2022 11:08:44 America/New_York] PHP Warning:  Undefined variable $dataList in /home/mamunstudios/public_html/newpageToActivate/index.php on line 65
+[05-Dec-2022 11:08:44 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/mamunstudios/public_html/newpageToActivate/index.php on line 65
+[05-Dec-2022 11:09:38 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[05-Dec-2022 11:09:38 America/New_York] PHP Warning:  Undefined variable $dataList in /home/mamunstudios/public_html/newpageToActivate/index.php on line 64
+[05-Dec-2022 11:09:38 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/mamunstudios/public_html/newpageToActivate/index.php on line 64
+[05-Dec-2022 11:10:07 America/New_York] PHP Warning:  Undefined array key "form" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 30
+[05-Dec-2022 11:11:44 America/New_York] PHP Warning:  Undefined variable $dataList in /home/mamunstudios/public_html/newpageToActivate/index.php on line 65
+[05-Dec-2022 11:11:44 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/mamunstudios/public_html/newpageToActivate/index.php on line 65
+[05-Dec-2022 11:12:21 America/New_York] PHP Warning:  Undefined variable $dataList in /home/mamunstudios/public_html/newpageToActivate/index.php on line 65
+[05-Dec-2022 11:12:21 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/mamunstudios/public_html/newpageToActivate/index.php on line 65
+[05-Dec-2022 11:12:48 America/New_York] PHP Warning:  Undefined variable $dataList in /home/mamunstudios/public_html/newpageToActivate/index.php on line 65
+[05-Dec-2022 11:12:48 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/mamunstudios/public_html/newpageToActivate/index.php on line 65
+[05-Dec-2022 11:13:26 America/New_York] PHP Warning:  Undefined variable $dataList in /home/mamunstudios/public_html/newpageToActivate/index.php on line 65
+[05-Dec-2022 11:13:26 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/mamunstudios/public_html/newpageToActivate/index.php on line 65
+[06-Dec-2022 05:19:30 America/New_York] PHP Warning:  Undefined array key "back" in /home/mamunstudios/public_html/newpageToActivate/index.php on line 95
